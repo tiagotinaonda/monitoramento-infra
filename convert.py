@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Caminho do arquivo de entrada e saída
-input_file = "export-pakset92.txt"
-output_file = "export-pakset92.xlsx"
+input_file = "export.txt"
+output_file = "export.xlsx"
 
 # Leitura e preparação
 with open(input_file, 'r', encoding='utf-8') as file:
